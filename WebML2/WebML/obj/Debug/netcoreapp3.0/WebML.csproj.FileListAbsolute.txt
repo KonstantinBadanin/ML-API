@@ -1,0 +1,675 @@
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\WebML.exe
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\staticwebassets\WebML.StaticWebAssets.Manifest.cache
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\staticwebassets\WebML.StaticWebAssets.xml
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\WebML.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\WebML.AssemblyInfo.cs
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\WebML.RazorTargetAssemblyInfo.cache
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\WebML.csproj.CopyComplete
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\WebML.deps.json
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\WebML.runtimeconfig.json
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\WebML.runtimeconfig.dev.json
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\WebML.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\WebML.pdb
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\WebML.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\WebML.pdb
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Microsoft.ML.OnnxRuntime.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libonnxruntime.so
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libonnxruntime.dylib
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libonnxruntime.dylib.dSYM\Contents\Info.plist
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libonnxruntime.dylib.dSYM\Contents\Resources\DWARF\libonnxruntime.dylib
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\onnxruntime.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\onnxruntime.lib
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\onnxruntime.pdb
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\onnxruntime.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\onnxruntime.lib
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\onnxruntime.pdb
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\WebML.csprojAssemblyReference.cache
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\DataBase.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\DataBase.pdb
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\WebML.Views.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\WebML.Views.pdb
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\WebML.RazorAssemblyInfo.cache
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\WebML.RazorAssemblyInfo.cs
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\WebML.TagHelpers.input.cache
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\WebML.TagHelpers.output.cache
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\WebML.RazorCoreGenerate.cache
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\Razor\Views\Inference\Index.cshtml.g.cs
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\WebML.RazorTargetAssemblyInfo.cs
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\WebML.Views.pdb
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\WebML.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Константин\Desktop\repos\WebML\WebML\obj\Debug\netcoreapp3.0\Razor\Views\Cleaning\Index.cshtml.g.cs
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Константин\Desktop\repos\WebML\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.exe
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.deps.json
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.runtimeconfig.json
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.runtimeconfig.dev.json
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.pdb
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.Views.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.Views.pdb
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.ML.OnnxRuntime.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libonnxruntime.so
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libonnxruntime.dylib
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libonnxruntime.dylib.dSYM\Contents\Info.plist
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libonnxruntime.dylib.dSYM\Contents\Resources\DWARF\libonnxruntime.dylib
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\onnxruntime.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\onnxruntime.lib
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\onnxruntime.pdb
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\onnxruntime.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\onnxruntime.lib
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\onnxruntime.pdb
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\DataBase.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\DataBase.pdb
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.csprojAssemblyReference.cache
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\staticwebassets\WebML.StaticWebAssets.Manifest.cache
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\staticwebassets\WebML.StaticWebAssets.xml
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorAssemblyInfo.cache
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorAssemblyInfo.cs
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.AssemblyInfo.cs
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.TagHelpers.input.cache
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.TagHelpers.output.cache
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorCoreGenerate.cache
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\Razor\Views\Cleaning\Index.cshtml.g.cs
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\Razor\Views\Inference\Index.cshtml.g.cs
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorTargetAssemblyInfo.cache
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorTargetAssemblyInfo.cs
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.Views.pdb
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.csproj.CopyComplete
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.dll
+C:\Users\Константин\Desktop\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.exe
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.deps.json
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.runtimeconfig.json
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.runtimeconfig.dev.json
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.Views.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.Views.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.ML.OnnxRuntime.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libonnxruntime.so
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libonnxruntime.dylib
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libonnxruntime.dylib.dSYM\Contents\Info.plist
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libonnxruntime.dylib.dSYM\Contents\Resources\DWARF\libonnxruntime.dylib
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\onnxruntime.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\onnxruntime.lib
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\onnxruntime.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\onnxruntime.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\onnxruntime.lib
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\onnxruntime.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\DataBase.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\DataBase.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.csprojAssemblyReference.cache
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\staticwebassets\WebML.StaticWebAssets.Manifest.cache
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\staticwebassets\WebML.StaticWebAssets.xml
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorAssemblyInfo.cache
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorAssemblyInfo.cs
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.AssemblyInfoInputs.cache
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.AssemblyInfo.cs
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.TagHelpers.input.cache
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.TagHelpers.output.cache
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorCoreGenerate.cache
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\Razor\Views\Cleaning\Index.cshtml.g.cs
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\Razor\Views\Inference\Index.cshtml.g.cs
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorTargetAssemblyInfo.cache
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorTargetAssemblyInfo.cs
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.Views.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.csproj.CopyComplete
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.exe
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.deps.json
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.runtimeconfig.json
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.runtimeconfig.dev.json
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.pdb
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.Views.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.Views.pdb
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.ML.OnnxRuntime.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libonnxruntime.so
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libonnxruntime.dylib
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libonnxruntime.dylib.dSYM\Contents\Info.plist
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libonnxruntime.dylib.dSYM\Contents\Resources\DWARF\libonnxruntime.dylib
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\onnxruntime.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\onnxruntime.lib
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\onnxruntime.pdb
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\onnxruntime.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\onnxruntime.lib
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\onnxruntime.pdb
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\DataBase.dll
+C:\Users\kaste\repos\WebML2\WebML\bin\Debug\netcoreapp3.0\DataBase.pdb
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.csprojAssemblyReference.cache
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.AssemblyInfoInputs.cache
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.AssemblyInfo.cs
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.csproj.CoreCompileInputs.cache
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorAssemblyInfo.cache
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorAssemblyInfo.cs
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.TagHelpers.input.cache
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.TagHelpers.output.cache
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorCoreGenerate.cache
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\Razor\Views\Cleaning\Index.cshtml.g.cs
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\Razor\Views\Inference\Index.cshtml.g.cs
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorTargetAssemblyInfo.cache
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorTargetAssemblyInfo.cs
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.Views.pdb
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.csproj.CopyComplete
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\staticwebassets\WebML.StaticWebAssets.Manifest.cache
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\staticwebassets\WebML.StaticWebAssets.xml
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.dll
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.pdb
+C:\Users\kaste\repos\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.genruntimeconfig.cache
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.StaticWebAssets.xml
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.exe
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.deps.json
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.runtimeconfig.json
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.runtimeconfig.dev.json
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.Views.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\WebML.Views.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.ML.OnnxRuntime.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libonnxruntime.so
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libonnxruntime.dylib
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libonnxruntime.dylib.dSYM\Contents\Info.plist
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libonnxruntime.dylib.dSYM\Contents\Resources\DWARF\libonnxruntime.dylib
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\onnxruntime.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\onnxruntime.lib
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\onnxruntime.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\onnxruntime.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\onnxruntime.lib
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\onnxruntime.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\DataBase.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\bin\Debug\netcoreapp3.0\DataBase.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.csproj.AssemblyReference.cache
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.AssemblyInfoInputs.cache
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.AssemblyInfo.cs
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.csproj.CoreCompileInputs.cache
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorAssemblyInfo.cache
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorAssemblyInfo.cs
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.sourcelink.json
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.TagHelpers.input.cache
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.TagHelpers.output.cache
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorCoreGenerate.cache
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\Razor\Views\Cleaning\Index.cshtml.g.cs
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\Razor\Views\Inference\Index.cshtml.g.cs
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorTargetAssemblyInfo.cache
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.RazorTargetAssemblyInfo.cs
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.Views.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\staticwebassets\WebML.StaticWebAssets.Manifest.cache
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\staticwebassets\WebML.StaticWebAssets.Pack.cache
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.WebML.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.WebML.props
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.WebML.props
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.WebML.props
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.csproj.Up2Date
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.dll
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\ML API\WebML2\WebML\obj\Debug\netcoreapp3.0\WebML.genruntimeconfig.cache

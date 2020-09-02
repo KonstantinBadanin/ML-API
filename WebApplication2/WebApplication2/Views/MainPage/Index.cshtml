@@ -1,0 +1,140 @@
+﻿@{
+    ViewData["Title"] = "MainPageView";
+}
+
+<h1>Database service</h1>
+<body background="https://image.freepik.com/free-photo/_1421-587.jpg">
+</body>
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script>
+    var flag = false;
+    var number = 0;
+    var classofitem = 0;
+    function nexthandler() {
+        number++;
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', 'http://localhost:5000/ImageLoad', true);
+        xhr.responseType = 'text';
+        xhr.setRequestHeader("Content-type", "application/json");
+        xhr.send(JSON.stringify({ name: number * 10 + classofitem }));
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState != 4) return;
+            if (xhr.status != 200) {
+                alert(xhr.status + ': ' + xhr.statusText);
+            } else {
+                if (xhr.response == 'Error') { number--; }
+                else {
+                    document.getElementById('image').setAttribute('src', 'data:image/bmp;base64,' + xhr.response);
+                }
+            }
+        }
+    }
+    function prevhandler() {
+        if (number > 0) number--; else return;
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', 'http://localhost:5000/ImageLoad', true);
+        xhr.responseType = 'text';
+        xhr.setRequestHeader("Content-type", "application/json");
+        xhr.send(JSON.stringify({ name: number * 10 + classofitem }));
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState != 4) return;
+            if (xhr.status != 200) {
+                alert(xhr.status + ': ' + xhr.statusText);
+            } else {
+                if (xhr.response == 'Error') { }
+                else {
+                    document.getElementById('image').setAttribute('src', 'data:image/bmp;base64,' + xhr.response);
+                }
+            }
+        }
+    }
+    function handler(e) {
+        var a = parseInt(this.value);
+        classofitem = a;
+        number = 0;
+        if (!flag) {
+            flag = true;
+            var image = document.createElement('img');
+            image.setAttribute('width', '112');
+            image.setAttribute('height', '112');
+            image.setAttribute('id', 'image');
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', 'http://localhost:5000/ImageLoad', true);
+            xhr.responseType = 'text';
+            xhr.setRequestHeader("Content-type", "application/json");
+            xhr.send(JSON.stringify({ name: a }));
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState != 4) return;
+                if (xhr.status != 200) {
+                    alert(xhr.status + ': ' + xhr.statusText);
+                } else {
+                    if (xhr.response == 'Error') { }
+                    else {
+                        image.setAttribute('src', 'data:image/bmp;base64,' + xhr.response);
+                    }
+                }
+            }
+            var next = document.createElement('button');
+            next.addEventListener('click', nexthandler, false);
+            next.innerHTML = 'next';
+            var prev = document.createElement('button');
+            prev.addEventListener('click', prevhandler, false);
+            prev.innerHTML = 'prev';
+            var h2 = document.createElement('h2');
+            document.body.append(h2);
+            document.body.append(image);
+            var h3 = document.createElement('h3');
+            document.body.append(h3);
+            document.body.append(prev);
+            document.body.append(next);
+        } else {
+            var xhr1 = new XMLHttpRequest();
+            xhr1.open('POST', 'http://localhost:5000/ImageLoad', true);
+            xhr1.responseType = 'text';
+            xhr1.setRequestHeader("Content-type", "application/json");
+            xhr1.send(JSON.stringify({ name: a }));
+            xhr1.onreadystatechange = function () {
+                if (xhr1.readyState != 4) return;
+                if (xhr1.status != 200) {
+                    alert(xhr1.status + ': ' + xhr1.statusText);
+                } else {
+                    if (xhr1.response == 'Error') { }
+                    else {
+                        document.getElementById('image').setAttribute('src', 'data:image/bmp;base64,' + xhr1.response);
+                    }
+                }
+            }
+        }
+    }
+
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', 'http://localhost:5000/Stat', true);
+    xhr.responseType = 'json';
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState != 4) return;
+        if (xhr.status != 200) {
+            alert(xhr.status + ': ' + xhr.statusText);
+        } else {
+            for (var item of xhr.response) {
+                var b = document.createElement('input');
+                var d = document.createElement('label');
+                b.setAttribute('type', 'radio');
+                b.setAttribute('name', 'g1');
+                b.addEventListener('click', handler, false);
+                b.setAttribute('value', item);
+                b.setAttribute('id', 'radio' + item);
+                d.setAttribute('for', 'radio' + item);
+                d.innerHTML = item;
+                document.body.append(b);
+                document.body.append(d);
+            }
+        }
+    }
+    xhr.send();
+</script>
+@section scripts
+{
+
+
+}
+

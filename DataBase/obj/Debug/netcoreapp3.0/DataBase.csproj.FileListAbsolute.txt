@@ -1,0 +1,24 @@
+C:\Users\Константин\Desktop\repos\WebML\DataBase\bin\Debug\netcoreapp3.0\DataBase.deps.json
+C:\Users\Константин\Desktop\repos\WebML\DataBase\bin\Debug\netcoreapp3.0\DataBase.dll
+C:\Users\Константин\Desktop\repos\WebML\DataBase\obj\Debug\netcoreapp3.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\repos\WebML\DataBase\obj\Debug\netcoreapp3.0\DataBase.AssemblyInfo.cs
+C:\Users\Константин\Desktop\repos\WebML\DataBase\bin\Debug\netcoreapp3.0\DataBase.pdb
+C:\Users\Константин\Desktop\repos\WebML\DataBase\obj\Debug\netcoreapp3.0\DataBase.dll
+C:\Users\Константин\Desktop\repos\WebML\DataBase\obj\Debug\netcoreapp3.0\DataBase.pdb
+C:\Users\Константин\Desktop\repos\WebML\DataBase\obj\Debug\netcoreapp3.0\DataBase.csprojAssemblyReference.cache
+C:\Users\Константин\Desktop\repos\WebML2\DataBase\bin\Debug\netcoreapp3.0\DataBase.deps.json
+C:\Users\Константин\Desktop\repos\WebML2\DataBase\bin\Debug\netcoreapp3.0\DataBase.dll
+C:\Users\Константин\Desktop\repos\WebML2\DataBase\bin\Debug\netcoreapp3.0\DataBase.pdb
+C:\Users\Константин\Desktop\repos\WebML2\DataBase\obj\Debug\netcoreapp3.0\DataBase.csprojAssemblyReference.cache
+C:\Users\Константин\Desktop\repos\WebML2\DataBase\obj\Debug\netcoreapp3.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\repos\WebML2\DataBase\obj\Debug\netcoreapp3.0\DataBase.AssemblyInfo.cs
+C:\Users\Константин\Desktop\repos\WebML2\DataBase\obj\Debug\netcoreapp3.0\DataBase.dll
+C:\Users\Константин\Desktop\repos\WebML2\DataBase\obj\Debug\netcoreapp3.0\DataBase.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\DataBase\bin\Debug\netcoreapp3.0\DataBase.deps.json
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\DataBase\bin\Debug\netcoreapp3.0\DataBase.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\DataBase\bin\Debug\netcoreapp3.0\DataBase.pdb
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\DataBase\obj\Debug\netcoreapp3.0\DataBase.csprojAssemblyReference.cache
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\DataBase\obj\Debug\netcoreapp3.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\DataBase\obj\Debug\netcoreapp3.0\DataBase.AssemblyInfo.cs
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\DataBase\obj\Debug\netcoreapp3.0\DataBase.dll
+C:\Users\kaste\OneDrive\Рабочий стол\repos\WebML2\DataBase\obj\Debug\netcoreapp3.0\DataBase.pdb
